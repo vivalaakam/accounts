@@ -25,6 +25,10 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'react-rails', '~> 1.0'
 gem 'bootstrap-sass', '~> 3.3.4'
+
+gem 'mongoid', '~> 4.0.2'
+gem 'bson_ext'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
